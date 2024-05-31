@@ -3,9 +3,10 @@
 I'm currently a sophomore at Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior. I am passionate about technology, coding, and always eager to learn new things.
 
 ## 📫 How to reach me:
-- ![Email](https://skillicons.dev/icons?i=gmail&theme=dark): [akshitgarg2412@gmail.com](mailto:akshitgarg2412@gmail.com)
-- ![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark): [Akshit Garg](https://www.linkedin.com/in/akshit-garg24/)
-- ![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark): [akshitgarg_24](https://www.instagram.com/akshitgarg_24/)
+ [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:akshitgarg2412@gmail.com)
+ [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/akshit-garg24/)
+ [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/akshitgarg_24/)
+ [![Resume](https://skillicons.dev/icons?i=google-drive&theme=dark)](https://drive.google.com/file/d/1sTHd_BJZPle8S-bvAhitgaGb4ugHzSKq/view?usp=drive_link)
 
 ## 🔧 Technologies & Tools
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
