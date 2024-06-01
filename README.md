@@ -2,8 +2,6 @@
 
 ![Hi there, I'm Akshit Garg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1600&lines=Ahoy%2C+developers!+I'm+Akshit+Garg;Navigating+the+sea+of+code+and+innovation.🌊;Sophomore+at+ABV-IIITM%2C+Gwalior;Passionate+about+technology+and+coding.🚀)
 
-I'm currently a sophomore at Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior. I am passionate about technology, coding, and always eager to learn new things.
-
 ## 📫 How to reach me:
  [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:akshitgarg2412@gmail.com)
  [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/akshit-garg24/)
