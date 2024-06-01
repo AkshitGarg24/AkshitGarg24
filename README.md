@@ -1,5 +1,7 @@
 # Hi there, I'm Akshit Garg 👋
 
+![Hi there, I'm Akshit Garg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1600&lines=Ahoy%2C+developers!+I'm+Akshit+Garg;Navigating+the+sea+of+code+and+innovation.🌊;Sophomore+at+ABV-IIITM%2C+Gwalior;Passionate+about+technology+and+coding.🚀)
+
 I'm currently a sophomore at Atal Bihari Vajpayee Indian Institute of Information Technology and Management, Gwalior. I am passionate about technology, coding, and always eager to learn new things.
 
 ## 📫 How to reach me:
@@ -21,6 +23,15 @@ I'm currently a sophomore at Atal Bihari Vajpayee Indian Institute of Informatio
 
 ## 🔝 Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitGarg24&layout=compact&theme=radical)
+
+## 🏆 Contribution Hub
+![Contribution Hub](https://github-readme-activity-graph.vercel.app/graph?username=AkshitGarg24&theme=vue)
+
+## 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=AkshitGarg24&theme=radical)
+
+## 📈 Visitor Count
+![Visitor Count](https://komarev.com/ghpvc/?username=AkshitGarg24&style=flat-square&color=blue)
 
 ## 🌱 Fun Fact
 - I love exploring new technologies and applying them to solve real-world problems.
