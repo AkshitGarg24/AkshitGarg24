@@ -28,8 +28,5 @@
 ## 🏆 GitHub Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=AkshitGarg24&theme=radical)
 
-## 📈 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=AkshitGarg24&style=flat-square&color=blue)
-
 ## 🌱 Fun Fact
 - I love exploring new technologies and applying them to solve real-world problems.
