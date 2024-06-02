@@ -8,13 +8,17 @@
  [![Instagram](https://skillicons.dev/icons?i=instagram&theme=dark)](https://www.instagram.com/akshitgarg_24/)
  [![Resume](https://skillicons.dev/icons?i=google-drive&theme=dark)](https://drive.google.com/file/d/1sTHd_BJZPle8S-bvAhitgaGb4ugHzSKq/view?usp=drive_link)
 
+
 ## 🔧 Technologies & Tools
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![HTML](https://skillicons.dev/icons?i=html&theme=dark)
 ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
 ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark)
+![Expressjs](https://skillicons.dev/icons?i=express&theme=dark)
+![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 
 ## 📊 GitHub Stats
 ![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshitGarg24&show_icons=true&theme=radical)
