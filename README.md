@@ -20,6 +20,7 @@
 ![Expressjs](https://skillicons.dev/icons?i=express&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 ![Reactjs](https://skillicons.dev/icons?i=react&theme=dark)
+![Django](https://skillicons.dev/icons?i=django&theme=dark)
 
 
 ## 📊 GitHub Stats
