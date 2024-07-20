@@ -24,17 +24,20 @@
 
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AkshitGarg24&theme=dark)
-![Akshit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AkshitGarg24&show_icons=true&theme=radical)
-
-## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitGarg24&layout=compact&theme=radical)
+<div align="center">
+<a href="https://github.com/AkshitGarg24">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AkshitGarg24&theme=blue_green" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AkshitGarg24&theme=blue_green" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshitGarg24&theme=blue_green" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AkshitGarg24&theme=blue_green" height="200em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshitGarg24&theme=blue_green" height="200em" />
+</div>
 
 ## 🏆 Contribution Hub
-![Contribution Hub](https://github-readme-activity-graph.vercel.app/graph?username=AkshitGarg24&theme=vue)
+![Contribution Hub](https://github-readme-activity-graph.vercel.app/graph?username=AkshitGarg24&theme=chartreuse-dark)
 
 ## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=AkshitGarg24&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=AkshitGarg24&theme=onestar)
 
 ## 🌱 Fun Fact
 - I love exploring new technologies and applying them to solve real-world problems.
