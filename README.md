@@ -20,7 +20,15 @@
 ![Expressjs](https://skillicons.dev/icons?i=express&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 ![Reactjs](https://skillicons.dev/icons?i=react&theme=dark)
+![TailWind](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![Django](https://skillicons.dev/icons?i=django&theme=dark)
+![PostMan](https://skillicons.dev/icons?i=postman&theme=dark)
+![Python](https://skillicons.dev/icons?i=py&theme=dark)
+![Git](https://skillicons.dev/icons?i=git&theme=dark)
+![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
+![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
+![Vite](https://skillicons.dev/icons?i=vite&theme=dark)
+![VSCode](https://skillicons.dev/icons?i=vscode&theme=dark)
 
 
 ## 📊 GitHub Stats
