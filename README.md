@@ -19,6 +19,7 @@
 ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Expressjs](https://skillicons.dev/icons?i=express&theme=dark)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 ![Reactjs](https://skillicons.dev/icons?i=react&theme=dark)
 ![TailWind](https://skillicons.dev/icons?i=tailwind&theme=dark)
 ![Django](https://skillicons.dev/icons?i=django&theme=dark)
