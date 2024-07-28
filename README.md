@@ -12,7 +12,6 @@
 ## 🔧 Technologies & Tools
 ![C](https://skillicons.dev/icons?i=c&theme=dark)
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![HTML](https://skillicons.dev/icons?i=html&theme=dark)
 ![CSS](https://skillicons.dev/icons?i=css&theme=dark)
 ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark)
