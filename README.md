@@ -1,6 +1,6 @@
 # Hi there, I'm Akshit Garg 👋
 
-![Hi there, I'm Akshit Garg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1600&lines=Ahoy%2C+developers!+I'm+Akshit+Garg;Navigating+the+sea+of+code+and+innovation.🌊;Sophomore+at+ABV-IIITM%2C+Gwalior;Passionate+about+technology+and+coding.🚀)
+![Hi there, I'm Akshit Garg](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=1600&lines=Ahoy%2C+developers!+I'm+Akshit+Garg;Navigating+the+sea+of+code+and+innovation.🌊;Third+Year+Student+at+ABV-IIITM%2C+Gwalior;Passionate+about+technology+and+coding.🚀)
 
 
 ## 📫 How to reach me:
