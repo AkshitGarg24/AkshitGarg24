@@ -1,8 +1,8 @@
 name: Generate Snake
 
 on:
+  # run automatically every 6 hours
   schedule:
-    # run automatically every 6 hours
     - cron: "0 */6 * * *" 
   
   # allows to manually run the job at any time
@@ -20,17 +20,13 @@ jobs:
           github_user_name: AkshitGarg24
   
           # list of files to generate.
-          # one file per line. each output can be customized with options as query string.
-          #
-          #  supported options:
-          #  - palette:     A preset of color, one of [github, github-dark, github-light]
-          #  - color_snake: Color of the snake
-          #  - color_dots:  Coma separated list of dots color.
-          #                 The first one is 0 contribution, then it goes from the low contribution to the highest.
-          #                 Exactly 5 colors are expected.
+          # Here we define the color palette to match TokyoNight/Dark themes
+          # color_snake: The color of the snake head
+          # color_dots: The 5 colors of the contribution squares (from empty to full)
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#70a5fd&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#70a5fd
+            
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
