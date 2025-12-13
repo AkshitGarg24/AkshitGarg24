@@ -17,7 +17,6 @@ I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**
 
 - 🔭 I’m currently working on **Microservices & Cloud Native Architectures**.
 - 🌱 I’m currently learning **System Design & Advanced Docker strategies**.
-- 💡 Fun fact: **I can debug complex backend logic faster than I can decide what to eat for dinner!**
 
 ---
 
