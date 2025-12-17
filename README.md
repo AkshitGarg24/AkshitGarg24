@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**. I specialize in building robust, scalable backend systems and high-performance web applications. I love architecture design, optimizing database queries, and containerizing applications for deployment.
+I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**. I specialize in engineering robust backend systems and AI-native automation platforms. I love designing agentic workflows, integrating LLMs into scalable architectures, and building next-generation developer tools.
 
 - 🔭 I’m currently working on Generative AI Applications & Autonomous Workflow Engines.
 - 🌱 I’m currently learning AI-Native Architectures & integrating LLMs into Full Stack Apps.
