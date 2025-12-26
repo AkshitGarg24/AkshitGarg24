@@ -53,12 +53,12 @@ I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AkshitGarg24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=F1F1F1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitGarg24&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=58A6FF&icon_color=F1F1F1&hide=html,css" height="180" alt="languages graph" />
 </p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitGarg24&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitGarg24&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" /> -->
 
 <br/><br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitGarg24&theme=tokyo-night&bg_color=00000000&hide_border=true" width="100%"/>
