@@ -40,7 +40,7 @@ I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **📦 NodeBase** | A powerful **Workflow Automation Platform** inspired by n8n and Zapier. Allows users to visually connect apps, automate tasks, and build complex workflows using a node-based architecture **(In Progress)**. | `TypeScript` `Node.js` `Automation` |
-| **👻 CodeSpecter** | An intelligent **AI-Powered Code Reviewer** that integrates directly into your workflow. It automatically analyzes pull requests, detects bugs, suggests optimizations, and provides instant feedback to streamline the review process **(In Progress)**. | `AI/LLM` `Webhooks` `TypeScript` |
+| **👻 CodeSpecter** | An intelligent **AI-Powered Code Reviewer** that integrates directly into your workflow. It automatically analyzes pull requests, detects bugs, suggests optimizations, and provides instant feedback to streamline the review process. | `AI/LLM` `Webhooks` `TypeScript` |
 | **✈️ Airplane Backend System** | A comprehensive backend service for an airline reservation system. Handles complex booking logic, seat allocation, and flight scheduling with a microservices approach. | `Node.js` `Express` `Microservices` |
 
 ---
