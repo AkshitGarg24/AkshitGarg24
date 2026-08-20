@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**. I specialize in engineering robust backend systems and AI-native automation platforms. I love designing agentic workflows, integrating LLMs into scalable architectures, and building next-generation developer tools.
+I am a **Full Stack Developer** and **Fourth-Year Student at ABV-IIITM, Gwalior**. I specialize in engineering robust backend systems and AI-native automation platforms. I love designing agentic workflows, integrating LLMs into scalable architectures, and building next-generation developer tools.
 
 - 🔭 I’m currently working on Generative AI Applications & Autonomous Workflow Engines.
 - 🌱 I’m currently learning AI-Native Architectures & integrating LLMs into Full Stack Apps.
@@ -39,7 +39,6 @@ I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **📦 NodeBase** | A powerful **Workflow Automation Platform** inspired by n8n and Zapier. Allows users to visually connect apps, automate tasks, and build complex workflows using a node-based architecture **(In Progress)**. | `TypeScript` `Node.js` `Automation` |
 | **👻 CodeSpecter** | An intelligent **AI-Powered Code Reviewer** that integrates directly into your workflow. It automatically analyzes pull requests, detects bugs, suggests optimizations, and provides instant feedback to streamline the review process. | `AI/LLM` `Webhooks` `TypeScript` |
 | **✈️ Airplane Backend System** | A comprehensive backend service for an airline reservation system. Handles complex booking logic, seat allocation, and flight scheduling with a microservices approach. | `Node.js` `Express` `Microservices` |
 
@@ -60,13 +59,4 @@ I am a **Full Stack Developer** and **Third-Year Student at ABV-IIITM, Gwalior**
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitGarg24&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="streak graph" /> -->
 
-<br/><br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkshitGarg24&theme=tokyo-night&bg_color=00000000&hide_border=true" width="100%"/>
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkshitGarg24&style=flat-square&color=blue" alt="Profile Views" />
-</div>
